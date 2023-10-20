@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    font-family: 'Black Ops One', cursive;;
+}
+.paragraph{
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    outline: ridge black 2px;
+}
+.content{
+    background-color:  rgb(236, 208, 118);
+
+}
+.sticky{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.gallery{
+    background-color: rgb(220, 153, 60);
+}
+.query{
+    background-color:  rgb(236, 208, 118);
+    height: 500px;
+}
+.footer{
+    background-color: rgb(220, 153, 60);
+}
+body{
+    background-color: black;
+}
+.btn:hover{
+    background-color:rgb(220, 153, 60) ;
+}
